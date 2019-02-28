@@ -1,0 +1,29 @@
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\bin\Release\Liberary management system.exe.config
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\bin\Release\Liberary management system.exe
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\bin\Release\Liberary management system.pdb
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.admin.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.delete.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form1.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form2.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form3.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form4.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form5.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form6.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form7.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form8.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Form9.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.Properties.Resources.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary management system.csproj.GenerateResource.Cache
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary management system.exe
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary management system.pdb
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary management system.csprojResolveAssemblyReference.cache
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\bin\Release\Liberary management system.exe.manifest
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\bin\Release\Liberary management system.application
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary management system.exe.manifest
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary management system.application
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.adminmain.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.book.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.dashboard.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.returnbooks.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.view.resources
+C:\Users\Tayyab\documents\visual studio 2013\Projects\Liberary management system\Liberary management system\obj\Release\Liberary_management_system.tc.resources
